@@ -31,7 +31,7 @@ Quiz 2: fizzbuzz
 * `4 % 2 == 0` or `4.modulo(2) == 0`
 
 ```ruby
-if 20 % 5
+if 20 % 5 == 0
   puts "yup"
 else
   puts "nay"
