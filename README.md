@@ -1,4 +1,4 @@
-Day 8 - Structs and More Testing in Ruby
+Day 8 - FizzBuzz, pop/shift
 ======================
 
 Quiz: Palindrome
