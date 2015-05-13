@@ -1,7 +1,7 @@
 Day 8 - FizzBuzz, pop/shift
 ======================
 
-Quiz: Palindrome
+Challenge: Palindrome
 -------------------
 
 > Write a method that tests if a word is a palindrome
@@ -17,7 +17,7 @@ Quiz: Palindrome
 ```
 
 
-Quiz 2: fizzbuzz
+Challenge 2: fizzbuzz
 ---------------
 
 > Write a program that prints the numbers from 1 to 100.
